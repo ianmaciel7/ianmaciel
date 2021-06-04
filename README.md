@@ -6,7 +6,7 @@
 
 
 <details open>	
-    <summary><b> My Skill Set</b></summary>
+    <summary><b>Minhas Skill</b></summary>
   
 <table><tr><td valign="top" width="1000em">
 
