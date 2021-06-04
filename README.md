@@ -6,27 +6,6 @@
 ## Projetos e Dev Stuffs:
 
 <details open>	
-  <summary><b> Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ianmaciel7&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianmaciel7&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details open>	
-  <summary><b>Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ianmaciel7&hide_border=true" />
-</details>
-
-<details open>
-  <summary><b>Projetos</b></summary>
-
-  <br />
-</details >
-
-<details open>	
     <summary><b> My Skill Set</b></summary>
   
 <table><tr><td valign="top" width="1000em">
@@ -52,6 +31,31 @@
 
 </div></td></tr></table>  
 </details>
+
+<details open>	
+  <summary><b> Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ianmaciel7&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianmaciel7&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<!--
+<details open>	
+  <summary><b>Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ianmaciel7&hide_border=true" />
+</details>
+
+<details open>
+  <summary><b>Projetos</b></summary>
+
+  <br />
+</details >
+-->
+
+
 
 <h2>📫 Fale comigo</h2>
 <p>
